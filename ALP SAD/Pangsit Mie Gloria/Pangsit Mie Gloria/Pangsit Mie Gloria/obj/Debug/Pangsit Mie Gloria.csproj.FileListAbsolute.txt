@@ -1,0 +1,101 @@
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.exe.config
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.exe
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.pdb
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\BouncyCastle.Cryptography.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Hash.xxHash.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\MySql.Data.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Buffers.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Configuration.ConfigurationManager.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.IO.Pipelines.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Memory.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Numerics.Vectors.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Threading.Tasks.Extensions.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\ZstdSharp.dll
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\BouncyCastle.Cryptography.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.pdb
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Hash.xxHash.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\MySql.Data.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Buffers.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Configuration.ConfigurationManager.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.IO.Pipelines.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Memory.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Numerics.Vectors.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Threading.Tasks.Extensions.xml
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.AssemblyReference.cache
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.SuggestedBindingRedirects.cache
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.MenuCreate.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.Properties.Resources.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialCreate.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.GenerateResource.cache
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.CoreCompileInputs.cache
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.CopyComplete
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.exe
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.pdb
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.Form1.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialList.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialUpdate.resources
+K:\KULIAH PT 3\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.UserCreate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.exe.config
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.exe
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Pangsit Mie Gloria.pdb
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Memory.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Memory.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.ExpenseCreate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.ExpenseUpdate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.Form1.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.MenuCreate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialCreate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialList.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.RawMaterialUpdate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.UserCreate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.UserList.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit_Mie_Gloria.UserUpdate.resources
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.exe
+C:\Users\ASUS\source\repos\ALP SAD\Pangsit Mie Gloria\Pangsit Mie Gloria\Pangsit Mie Gloria\obj\Debug\Pangsit Mie Gloria.pdb
